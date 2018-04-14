@@ -3,12 +3,15 @@ JQuery Homework Assignment Week 5
 
 
 WHAT THE PROJECT DOES:
+The project is a trivial pursuit type of experience to challenge ones knowledge around different facets of horses. 
 
+It is a time game, so players only have a few second to review and answer the question correclty. The game will proceed automatically to each question until all questions have gone through.
 
 
 
 WHY IT IS USEFUL:
 
+It is useful, as it can assist in the development of timed examines, have count down set-up for major events, create automations in ones websites for scrolling of information.
 
 
 

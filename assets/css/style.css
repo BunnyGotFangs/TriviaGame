@@ -1,0 +1,22 @@
+body    
+{
+    background-image: url("../images/equine.jpg");
+    background-image: 960px;
+    width:960px;
+    padding:50px;
+    border:20px;
+    margin:20px;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+}  
+h1
+{
+    color: blue;
+} 
+
+.btn-danger
+{
+    color: black;
+    font-style: oblique;
+ }
